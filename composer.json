@@ -1,0 +1,7 @@
+{
+    "name": "rabin/oop-form",
+    "autoload" : {
+        "classmap" : ["Classes"]
+    },
+    "require": {}
+}
