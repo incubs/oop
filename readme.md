@@ -8,4 +8,13 @@
 #### Things to Be Done
 
 1. Edit
-2. Delete
+1. Delete
+
+#### To Setup
+
+* `git clone https://github.com/incubs/oop.git <foldername>`
+* `cd <foldername>`
+* `composer du`
+
+
+ 
